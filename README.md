@@ -27,4 +27,5 @@ First on  click the icon then home page will open and in search bar type what re
 
 1) http
 2) web view
+3) url launcher
 
