@@ -19,7 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 
 https://user-images.githubusercontent.com/74608125/227788359-e9a66d80-df77-4087-ad67-05feacf43375.mp4
 
-#Description
+## Description
+
 First on  click the icon then home page will open and in search bar type what recipe you want to search then api will get call according to that query and you will get scrollable list of recipe on clicking any recipe you will directed to recipe detail page and there is thumbs-up icon for adding particular item to favourite list and on clicking the favourite button which is at below on home screen and it will direct you to favourite page. Thats all!!!
 ##Dependency used
 1) http
